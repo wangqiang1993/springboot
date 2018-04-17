@@ -5,6 +5,7 @@ import javax.persistence.Id;
 
 /**
  * wangshengqiang
+ *
  */
 public class Bean {
 
