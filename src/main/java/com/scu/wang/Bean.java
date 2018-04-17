@@ -3,6 +3,9 @@ package com.scu.wang;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
+/**
+ * wangshengqiang
+ */
 public class Bean {
 
     @Id
